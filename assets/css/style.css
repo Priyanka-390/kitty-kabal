@@ -82,6 +82,9 @@
 .pt-4{
     padding-top: 4px;
 }
+.p-12{
+    padding: 0 12px;
+}
 .py-22{
     padding-top: 22px;
     padding-bottom: 22px;
