@@ -164,8 +164,8 @@ border:0.79px solid #00C2FF ;
 }
 .get-btn:hover{
     background: transparent;
-    border: 2px #00C2FF solid;
-    color: #00C2FF;
+    border: 2px white solid;
+    color: white;
 }
 @media (min-width:578px) {
     :root{
