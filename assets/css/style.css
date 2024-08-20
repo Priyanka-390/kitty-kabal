@@ -129,7 +129,7 @@
     border-radius: 50%;
     transition: all 300ms linear;
     border: 0.79px solid white;
-    box-shadow: 0 0 3px -1px #FFFFFF inset;
+    box-shadow: 0 0 5px 0 #FFFFFF;
 }
 .gap-12{
     gap: 12px;
