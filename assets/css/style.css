@@ -65,16 +65,29 @@
 .text-center{
     text-align: center;
 }
-.py-22{
-    padding-top: 22px;
-    padding-bottom: 22px;
-}
+
 .font-bold{
     font-weight: 700;
 }
 .font-normal{
     font-weight: 400;
 }
+/* ======= SPACING ========= */
+.mb-20{
+    margin-bottom: 20px;
+}
+.mb-30{
+    margin-bottom: 30px;
+}
+.pt-4{
+    padding-top: 4px;
+}
+.py-22{
+    padding-top: 22px;
+    padding-bottom: 22px;
+}
+
+/* ====== LINE HEIGHT ======== */
 .lh-120{
     line-height: 120%;
 }
@@ -84,6 +97,8 @@
 .lh-150{
     line-height: 150%;
 }
+
+/* ======= COLORS ======== */
 .text-white{
     color: white;
 }
@@ -93,6 +108,15 @@
 .text-black{
     color: black;
 }
+
+/* ======= MAX WIDTH ====== */
+.max-w-930{
+    max-width: 930px;
+}
+.max-w-721{
+    max-width: 721px;
+}
+
 .icon-box{
     width : 32.29px;
     height: 32.29px;
@@ -107,12 +131,6 @@
 .uppercase{
     text-transform: uppercase;
 }
-.max-w-930{
-    max-width: 930px;
-}
-.max-w-721{
-    max-width: 721px;
-}
 .mx-auto{
     margin-left: auto;
     margin-right: auto;
@@ -120,12 +138,7 @@
 .pt-100{
     padding-top: 100px;
 }
-.mb-25{
-    margin-bottom: 25px;
-}
-.mb-40{
-    margin-bottom: 40px;
-}
+
 .get-btn{
     padding: 12px 18px;
     background: #00C2FF;
@@ -167,6 +180,12 @@ border:0.79px solid #00C2FF ;
 }
 .gap-16{
     gap: 16px;
+}
+.mb-25{
+    margin-bottom: 25px;
+}
+.mb-40{
+    margin-bottom: 40px;
 }
 .icon-box{
     width : 36.29px;
