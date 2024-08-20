@@ -86,6 +86,9 @@
     padding-top: 22px;
     padding-bottom: 22px;
 }
+.pt-100{
+    padding-top: 100px;
+}
 
 /* ====== LINE HEIGHT ======== */
 .lh-120{
@@ -135,8 +138,8 @@
     margin-left: auto;
     margin-right: auto;
 }
-.pt-100{
-    padding-top: 100px;
+.black-gradient{
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 47.18%, rgba(0, 0, 0, 0.01) 100%);
 }
 
 .get-btn{
@@ -167,7 +170,7 @@ border:0.79px solid #00C2FF ;
  --fs-sm:16px;
  --fs-md:18px;
  --fs-lg:24px;
- --fs-xl:36px;
+ --fs-xl:32px;
 }
 }
 @media (min-width:768px) {
